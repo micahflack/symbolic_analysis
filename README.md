@@ -1,1 +1,4 @@
-Nothing has been added to the README.md yet.
+
+This repo contains the following files:
+  [+] Final - Readme.docx
+  [+] Symbolic Analysis & Code Emulation.pdf
